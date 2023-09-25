@@ -7,7 +7,7 @@ I found that directly using libabries such as tensorflow, pytorch, and sklearn m
 
 ## Logistic Regression Model
 
-Includes: 
+Planning on including: 
 - AdaM Optimization (RMS Prop & momentum) 
 - Mini Batch gradient descent
 - Regularization (L2 & Dropout)
